@@ -47,12 +47,11 @@
 <!--![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AitoBoratti&show_icons=true&theme=radical)-->
 
 ---
-
-### ⌨️ Actividad reciente
+<!--### ⌨️ Actividad reciente
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=AitoBoratti&theme=radical)](https://wakatime.com)
 
 ---
-
+-->
 ### 📫 Contáctame
 - 🌐 [LinkedIn](https://www.linkedin.com/in/alberto-a-boratti)  
 - 📧 albertoboratti@gmail.com  
