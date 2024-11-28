@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 ¡Hola! Soy Alberto Boratti
 ### Estudiante de Informática | Apasionado por la programación y las soluciones tecnológicas 🚀  
 
