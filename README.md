@@ -1,4 +1,57 @@
 ## Hi there 👋
+# 👋 ¡Hola! Soy Alberto Boratti
+### Estudiante de Informática | Apasionado por la programación y las soluciones tecnológicas 🚀  
+
+📍 Desde La Plata, Argentina, me dedico a aprender y desarrollar proyectos innovadores con un enfoque en la resolución de problemas y el trabajo en equipo.
+
+---
+
+### 💡 Sobre mí
+🎓 Estudiante en **Licenciatura en Informática** en la Universidad Católica de La Plata.  
+📈 Apasionado por Python, desarrollo web, y videojuegos.  
+🌟 Siempre en búsqueda de oportunidades para aplicar mis conocimientos técnicos y colaborar en proyectos desafiantes.
+
+---
+
+### 🔧 Habilidades Técnicas
+- **Lenguajes de Programación:** Python, HTML, CSS, JavaScript, PHP, MySQL, C#.  
+- **Frameworks y Librerías:** Unity, AJAX.  
+- **Herramientas:** Git, Office (Intermedio-Avanzado).  
+- **Idiomas:** Español (nativo), Inglés (avanzado), Alemán (básico).
+
+---
+<!--### 📂 Proyectos Destacados
+- **[Generador de Cartas de Presentación](https://github.com/AitoBoratti/carta-presentacion):**  
+  Herramienta personalizada en Python para generar cartas laborales adaptadas a cada empresa.  
+  ![Demo del proyecto](https://via.placeholder.com/600x300?text=Demo+del+Generador+de+Cartas)
+
+- **[Snake Game](https://github.com/AitoBoratti/snake-game):**  
+  Una implementación del clásico juego de la serpiente usando Python y Turtle.  
+  ![Snake Game](https://via.placeholder.com/600x300?text=Gameplay+de+Snake)
+
+- **[Portafolio de Ejercicios](https://github.com/AitoBoratti/Python):**  
+  Colección de ejercicios resueltos para reforzar conceptos clave en Python.
+
+--- -->
+### 🎓 Formación Académica
+- **Licenciatura en Informática (en curso):** Universidad Católica de La Plata.  
+- **Certificaciones:**  
+  - *100 Days of Code: The Complete Python Pro Bootcamp* (Udemy).  
+  - *Desarrollo Web Completo* (HTML5, CSS3, JS, PHP, MySQL).  
+  - *Curso Completo de Videojuegos con Unity y C#*.  
+  - *Reparación de Computadoras* (UNLP).
+
+---
+
+### 📊 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AitoBoratti&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contáctame
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alberto-a-boratti)  
+- 📧 albertoboratti@gmail.com  
+- 📞 +54 9 376 455-8192  
 
 <!--
 **AitoBoratti/AitoBoratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
