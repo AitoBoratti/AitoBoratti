@@ -45,6 +45,12 @@
 
 ### 📊 Estadísticas de GitHub
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AitoBoratti&layout=compact&theme=radical)
+<!--![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AitoBoratti&show_icons=true&theme=radical)-->
+
+---
+
+### ⌨️ Actividad reciente
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=AitoBoratti&theme=radical)](https://wakatime.com)
 
 ---
 
@@ -53,6 +59,9 @@
 - 📧 albertoboratti@gmail.com  
 - 📞 +54 9 376 455-8192  
 
+
+
+> 🌟 **Estoy retomando la actividad en GitHub y trabajando en nuevos proyectos. ¡Sigue atento a las actualizaciones!**
 <!--
 **AitoBoratti/AitoBoratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
