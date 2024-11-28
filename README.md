@@ -33,7 +33,7 @@
 
 --- -->
 ### 🎓 Formación Académica
-- **Licenciatura en Informática (en curso):** Universidad Católica de La Plata.  
+- **Licenciatura en Sistemas (en curso):** Universidad Católica de La Plata.  
 - **Certificaciones:**  
   - *100 Days of Code: The Complete Python Pro Bootcamp* (Udemy).  
   - *Desarrollo Web Completo* (HTML5, CSS3, JS, PHP, MySQL).  
