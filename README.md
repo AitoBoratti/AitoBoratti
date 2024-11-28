@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Alberto Boratti
-### Estudiante de Informática | Apasionado por la programación y las soluciones tecnológicas 🚀  
+### Estudiante de Sistemas | Apasionado por la programación y las soluciones tecnológicas 🚀  
 
 📍 Desde La Plata, Argentina, me dedico a aprender y desarrollar proyectos innovadores con un enfoque en la resolución de problemas y el trabajo en equipo.
 
