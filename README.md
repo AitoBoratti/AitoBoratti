@@ -6,7 +6,7 @@
 ---
 
 ### 💡 Sobre mí
-🎓 Estudiante en **Licenciatura en Informática** en la Universidad Católica de La Plata.  
+🎓 Estudiante en **Licenciatura en Sistemas** en la Universidad Católica de La Plata.  
 📈 Apasionado por Python, desarrollo web, y videojuegos.  
 🌟 Siempre en búsqueda de oportunidades para aplicar mis conocimientos técnicos y colaborar en proyectos desafiantes.
 
